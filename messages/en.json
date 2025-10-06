@@ -1,0 +1,186 @@
+{
+	"nav": {
+		"home": "Home",
+		"projects": "Projects",
+		"skills": "Skills",
+		"experience": "Experience",
+		"contact": "Contact"
+	},
+	"hero": {
+		"greeting": "Welcome to my portfolio!",
+		"title": "Software Engineer",
+		"description": "Software Engineer with advanced training in Cybersecurity and experience in Data Science. Currently working at GAINKODE developing mobile and web applications. Previous experience at Andorra Telecom as a Data Scientist and knowledge in cryptography. Specialized in web development, data analysis, and computer security.",
+		"scroll": "Scroll",
+		"cta": {
+			"viewProjects": "View Projects",
+			"downloadCV": "Download CV",
+			"contact": "Contact Me"
+		}
+	},
+	"projects": {
+		"title": "My Projects",
+		"featuredProjects": "Featured Projects",
+		"subtitle": "Some of my recent work",
+		"description": "A selection of projects that demonstrate my experience in software development, from full-stack applications, mobile apps, to backend and frontend solutions.",
+		"allProjects": "All My Projects",
+		"viewGitHub": "View on GitHub",
+		"portfolioConstruction": "Portfolio Under Construction",
+		"comingSoon": "This is my first public project. I'm currently working on new developments that I'll be adding to this section soon. My focus is on creating high-quality projects that demonstrate my technical skills and creativity.",
+		"updatesComingSoon": "Updates coming soon",
+		"viewLive": "View Site",
+		"viewCode": "View Code",
+		"featured": "Featured",
+		"categories": {
+			"all": "All",
+			"web": "Web",
+			"mobile": "Mobile",
+			"desktop": "Desktop"
+		},
+		"items": {
+			"portfoliowebsite": {
+				"title": "Personal Portfolio",
+				"description": "Personal website developed with React, TypeScript, and Next.js. Includes advanced animations, particle effects, custom cursor, and responsive design.",
+				"longDescription": "Personal website developed with React, TypeScript, and Next.js. Includes advanced animations, particle effects, custom cursor, and responsive design. Demonstrates my skills in modern frontend development with a fluid and interactive user experience. Implements WebGL for visual effects, animations with Framer Motion, and a fully responsive design."
+			}
+		}
+	},
+	"skills": {
+		"title": "Technical Skills",
+		"subtitle": "Technologies and tools I work with",
+		"description": "Technologies and tools I master, organized by categories. Each skill is classified according to its application area.",
+		"stats": {
+			"skills": "Skills",
+			"years": "Years of Experience"
+		},
+		"level": {
+			"beginner": "Beginner",
+			"intermediate": "Intermediate",
+			"advanced": "Advanced",
+			"expert": "Expert",
+			"master": "Master"
+		},
+		"categories": {
+			"featured": "Featured",
+			"all": "All",
+			"frontend": "Frontend",
+			"backend": "Backend",
+			"cloud": "Cloud",
+			"tools": "Tools",
+			"security": "Security",
+			"programming": "Programming"
+		},
+		"items": {
+			"sql": "SQL",
+			"devops": "DevOps",
+			"angularjs": "AngularJS",
+			"webdevelopment": "Web Development",
+			"reactjs": "React.js",
+			"typescript": "TypeScript",
+			"applicationdevelopment": "Application Development",
+			"python": "Python",
+			"blockchain": "Blockchain",
+			"cybersecurity": "Cybersecurity",
+			"cryptography": "Cryptography",
+			"bigdata": "Big Data",
+			"spl": "SPL",
+			"splunk": "Splunk",
+			"tableau": "Tableau"
+		}
+	},
+	"experience": {
+		"title": "Work Experience",
+		"subtitle": "My professional journey",
+		"readyTitle": "Ready to work together?",
+		"readyDescription": "With my experience in full-stack development and my passion for creating innovative solutions, I'm ready to take your project to the next level.",
+		"present": "Present",
+		"current": "Current",
+		"items": {
+			"gainkodesoftwareengineer": {
+				"company": "GAINKODE",
+				"position": "Software Engineer",
+				"description": [
+					"Web application development using modern technologies",
+					"Implementation of frontend solutions with AngularJS",
+					"On-site work in full-time development team",
+					"Application of software development best practices"
+				]
+			},
+			"andorratelecomdatascientist": {
+				"company": "Andorra Telecom",
+				"position": "Data Scientist",
+				"description": [
+					"Analysis and processing of large volumes of data",
+					"Implementation of business intelligence solutions",
+					"Development of data models and predictive analysis",
+					"Work with monitoring and log analysis tools",
+					"Collaboration on digital transformation projects"
+				]
+			},
+			"freemindtronicjuniordeveloper": {
+				"company": "Freemindtronic SL",
+				"position": "Junior Software Developer",
+				"description": [
+					"Application development with focus on security and cryptography",
+					"Implementation of user interfaces with React.js",
+					"Participation in technological innovation projects",
+					"Application of secure development principles",
+					"Teamwork in professional internship environment"
+				]
+			}
+		}
+	},
+	"contact": {
+		"title": "Get in Touch",
+		"subtitle": "Let's work together",
+		"description": "I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions.",
+		"form": {
+			"name": "Name",
+			"namePlaceholder": "Your name",
+			"email": "Email",
+			"emailPlaceholder": "your.email@example.com",
+			"subject": "Subject",
+			"subjectPlaceholder": "What is it about?",
+			"message": "Message",
+			"messagePlaceholder": "Your message here...",
+			"send": "Send Message",
+			"sending": "Sending...",
+			"success": "Message sent successfully! I'll reply soon.",
+			"error": "Could not send the message. Please try again later or use the available contact channels."
+		},
+		"info": {
+			"title": "Contact Information",
+			"subtitle": "Prefer to contact me directly? Here you have my contact details and social networks. I'm available to chat!",
+			"email": "Email",
+			"location": "Location",
+			"social": "Social Media"
+		}
+	},
+	"footer": {
+		"rights": "All rights reserved",
+		"builtWith": "Built with ❤️ using React, TypeScript and Next.js"
+	},
+	"common": {
+		"loading": "Loading...",
+		"error": "An error occurred",
+		"tryAgain": "Try again",
+		"close": "Close",
+		"open": "Open",
+		"save": "Save",
+		"cancel": "Cancel",
+		"delete": "Delete",
+		"edit": "Edit",
+		"view": "View",
+		"back": "Back",
+		"next": "Next",
+		"previous": "Previous",
+		"search": "Search",
+		"filter": "Filter",
+		"sort": "Sort",
+		"selectLanguage": "Select language"
+	},
+	"metadata": {
+		"title": "Edu Freitas - Full Stack Developer",
+		"description": "Full Stack Developer specialized in React, TypeScript and Node.js. Creating modern and scalable web applications for over 3 years.",
+		"keywords": "developer, react, typescript, nodejs, fullstack, javascript, web development"
+	}
+}

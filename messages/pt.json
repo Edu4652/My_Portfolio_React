@@ -1,0 +1,186 @@
+{
+	"nav": {
+		"home": "Início",
+		"projects": "Projetos",
+		"skills": "Competências",
+		"experience": "Experiência",
+		"contact": "Contacto"
+	},
+	"hero": {
+		"greeting": "Bem-vindo ao meu portfólio!",
+		"title": "Engenheiro de Software",
+		"description": "Engenheiro de Software com formação avançada em Cibersegurança e experiência em Data Science. Atualmente a trabalhar na GAINKODE desenvolvendo aplicações móveis e web. Com experiência anterior na Andorra Telecom como Data Scientist e conhecimentos em criptografia. Especializado em desenvolvimento web, análise de dados e segurança informática.",
+		"scroll": "Rolar",
+		"cta": {
+			"viewProjects": "Ver Projetos",
+			"downloadCV": "Baixar CV",
+			"contact": "Contacte-me"
+		}
+	},
+	"projects": {
+		"title": "Meus Projetos",
+		"featuredProjects": "Projetos em Destaque",
+		"subtitle": "Alguns dos meus trabalhos recentes",
+		"description": "Uma seleção de projetos que demonstram a minha experiência em desenvolvimento de software, desde aplicações full-stack, aplicações móveis, até soluções de backend e frontend.",
+		"allProjects": "Todos Meus Projetos",
+		"viewGitHub": "Ver no GitHub",
+		"portfolioConstruction": "Portfólio em Construção",
+		"comingSoon": "Este é o meu primeiro projeto público. Atualmente estou a trabalhar em novos desenvolvimentos que em breve adicionarei a esta secção. O meu foco é criar projetos de alta qualidade que demonstrem as minhas capacidades técnicas e criatividade.",
+		"updatesComingSoon": "Atualizações em breve",
+		"viewLive": "Ver Site",
+		"viewCode": "Ver Código",
+		"featured": "Destaque",
+		"categories": {
+			"all": "Todos",
+			"web": "Web",
+			"mobile": "Móvel",
+			"desktop": "Desktop"
+		},
+		"items": {
+			"portfoliowebsite": {
+				"title": "Portfólio Pessoal",
+				"description": "Site pessoal desenvolvido com React, TypeScript e Next.js. Inclui animações avançadas, efeitos de partículas, cursor personalizado e design responsivo.",
+				"longDescription": "Site pessoal desenvolvido com React, TypeScript e Next.js. Inclui animações avançadas, efeitos de partículas, cursor personalizado e design responsivo. Demonstra as minhas competências em desenvolvimento frontend moderno com uma experiência de utilizador fluida e interativa. Implementa WebGL para efeitos visuais, animações com Framer Motion e um design completamente responsivo."
+			}
+		}
+	},
+	"skills": {
+		"title": "Competências Técnicas",
+		"subtitle": "Tecnologias e ferramentas com que trabalho",
+		"description": "Tecnologias e ferramentas que domino, organizadas por categorias. Cada competência é classificada de acordo com a sua área de aplicação.",
+		"stats": {
+			"skills": "Competências",
+			"years": "Anos de Experiência"
+		},
+		"level": {
+			"beginner": "Principiante",
+			"intermediate": "Intermédio",
+			"advanced": "Avançado",
+			"expert": "Especialista",
+			"master": "Mestre"
+		},
+		"categories": {
+			"featured": "Destaque",
+			"all": "Todas",
+			"frontend": "Frontend",
+			"backend": "Backend",
+			"cloud": "Cloud",
+			"tools": "Ferramentas",
+			"security": "Segurança",
+			"programming": "Programação"
+		},
+		"items": {
+			"sql": "SQL",
+			"devops": "DevOps",
+			"angularjs": "AngularJS",
+			"webdevelopment": "Desenvolvimento Web",
+			"reactjs": "React.js",
+			"typescript": "TypeScript",
+			"applicationdevelopment": "Desenvolvimento de Aplicações",
+			"python": "Python",
+			"blockchain": "Blockchain",
+			"cybersecurity": "Cibersegurança",
+			"cryptography": "Criptografia",
+			"bigdata": "Big Data",
+			"spl": "SPL",
+			"splunk": "Splunk",
+			"tableau": "Tableau"
+		}
+	},
+	"experience": {
+		"title": "Experiência Profissional",
+		"subtitle": "A minha trajetória profissional",
+		"readyTitle": "Pronto para trabalhar juntos?",
+		"readyDescription": "Com a minha experiência em desenvolvimento full-stack e a minha paixão por criar soluções inovadoras, estou pronto para levar o seu projeto ao próximo nível.",
+		"present": "Presente",
+		"current": "Atual",
+		"items": {
+			"gainkodesoftwareengineer": {
+				"company": "GAINKODE",
+				"position": "Engenheiro de Software",
+				"description": [
+					"Desenvolvimento de aplicações web utilizando tecnologias modernas",
+					"Implementação de soluções frontend com AngularJS",
+					"Trabalho presencial em equipa de desenvolvimento a tempo inteiro",
+					"Aplicação de boas práticas em desenvolvimento de software"
+				]
+			},
+			"andorratelecomdatascientist": {
+				"company": "Andorra Telecom",
+				"position": "Data Scientist",
+				"description": [
+					"Análise e processamento de grandes volumes de dados",
+					"Implementação de soluções de business intelligence",
+					"Desenvolvimento de modelos de dados e análise preditiva",
+					"Trabalho com ferramentas de monitorização e análise de logs",
+					"Colaboração em projetos de transformação digital"
+				]
+			},
+			"freemindtronicjuniordeveloper": {
+				"company": "Freemindtronic SL",
+				"position": "Desenvolvedor de Software Júnior",
+				"description": [
+					"Desenvolvimento de aplicações com foco em segurança e criptografia",
+					"Implementação de interfaces de utilizador com React.js",
+					"Participação em projetos de inovação tecnológica",
+					"Aplicação de princípios de desenvolvimento seguro",
+					"Trabalho em equipa em ambiente de estágio profissional"
+				]
+			}
+		}
+	},
+	"contact": {
+		"title": "Entre em Contacto",
+		"subtitle": "Vamos trabalhar juntos",
+		"description": "Estou sempre aberto a discutir novos projetos, ideias criativas ou oportunidades para fazer parte das suas visões.",
+		"form": {
+			"name": "Nome",
+			"namePlaceholder": "O seu nome",
+			"email": "Email",
+			"emailPlaceholder": "seu.email@exemplo.com",
+			"subject": "Assunto",
+			"subjectPlaceholder": "Sobre o que se trata?",
+			"message": "Mensagem",
+			"messagePlaceholder": "A sua mensagem aqui...",
+			"send": "Enviar Mensagem",
+			"sending": "A enviar...",
+			"success": "Mensagem enviada com sucesso! Responderei em breve.",
+			"error": "Não foi possível enviar a mensagem. Por favor, tente novamente mais tarde ou utilize os canais de contacto disponíveis."
+		},
+		"info": {
+			"title": "Informação de contacto",
+			"subtitle": "Prefere contactar-me diretamente? Aqui tem os meus dados de contacto e redes sociais. Estou disponível para conversar!",
+			"email": "Email",
+			"location": "Localização",
+			"social": "Redes Sociais"
+		}
+	},
+	"footer": {
+		"rights": "Todos os direitos reservados",
+		"builtWith": "Desenvolvido com ❤️ usando React, TypeScript e Next.js"
+	},
+	"common": {
+		"loading": "A carregar...",
+		"error": "Ocorreu um erro",
+		"tryAgain": "Tentar novamente",
+		"close": "Fechar",
+		"open": "Abrir",
+		"save": "Guardar",
+		"cancel": "Cancelar",
+		"delete": "Eliminar",
+		"edit": "Editar",
+		"view": "Ver",
+		"back": "Voltar",
+		"next": "Seguinte",
+		"previous": "Anterior",
+		"search": "Pesquisar",
+		"filter": "Filtrar",
+		"sort": "Ordenar",
+		"selectLanguage": "Selecionar idioma"
+	},
+	"metadata": {
+		"title": "Edu Freitas - Programador Full Stack",
+		"description": "Programador Full Stack especializado em React, TypeScript e Node.js. A criar aplicações web modernas e escaláveis há mais de 3 anos.",
+		"keywords": "programador, react, typescript, nodejs, fullstack, javascript, desenvolvimento web"
+	}
+}
