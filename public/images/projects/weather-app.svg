@@ -1,0 +1,81 @@
+<svg width="800" height="600" viewBox="0 0 800 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background gradient -->
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ffecd2;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#fcb69f;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="card" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ffffff;stop-opacity:0.95" />
+      <stop offset="100%" style="stop-color:#f8fafc;stop-opacity:0.9" />
+    </linearGradient>
+    <linearGradient id="sun" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#fbbf24;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#f59e0b;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="url(#bg)"/>
+  
+  <!-- Header -->
+  <rect x="0" y="0" width="800" height="80" fill="rgba(255,255,255,0.2)" stroke="none"/>
+  <text x="40" y="50" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white">Weather App</text>
+  
+  <!-- Main weather card -->
+  <rect x="40" y="100" width="720" height="400" fill="url(#card)" rx="16"/>
+  
+  <!-- Current weather -->
+  <text x="80" y="150" font-family="Arial, sans-serif" font-size="32" font-weight="bold" fill="#1f2937">Madrid, Spain</text>
+  <text x="80" y="180" font-family="Arial, sans-serif" font-size="16" fill="#6b7280">Today, March 15</text>
+  
+  <!-- Sun icon -->
+  <circle cx="600" cy="150" r="40" fill="url(#sun)"/>
+  <text x="580" y="160" font-family="Arial, sans-serif" font-size="48" fill="white">☀️</text>
+  
+  <!-- Temperature -->
+  <text x="80" y="250" font-family="Arial, sans-serif" font-size="72" font-weight="bold" fill="#1f2937">24°C</text>
+  <text x="200" y="250" font-family="Arial, sans-serif" font-size="24" fill="#6b7280">Sunny</text>
+  
+  <!-- Weather details -->
+  <rect x="80" y="300" width="200" height="80" fill="rgba(59, 130, 246, 0.1)" rx="8"/>
+  <text x="100" y="325" font-family="Arial, sans-serif" font-size="14" fill="#6b7280">Humidity</text>
+  <text x="100" y="345" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#1f2937">65%</text>
+  
+  <rect x="300" y="300" width="200" height="80" fill="rgba(16, 185, 129, 0.1)" rx="8"/>
+  <text x="320" y="325" font-family="Arial, sans-serif" font-size="14" fill="#6b7280">Wind Speed</text>
+  <text x="320" y="345" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#1f2937">12 km/h</text>
+  
+  <rect x="520" y="300" width="200" height="80" fill="rgba(245, 158, 11, 0.1)" rx="8"/>
+  <text x="540" y="325" font-family="Arial, sans-serif" font-size="14" fill="#6b7280">UV Index</text>
+  <text x="540" y="345" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#1f2937">6</text>
+  
+  <!-- 5-day forecast -->
+  <text x="80" y="420" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#1f2937">5-Day Forecast</text>
+  
+  <!-- Forecast cards -->
+  <rect x="80" y="440" width="120" height="60" fill="white" rx="8" stroke="#e5e7eb" stroke-width="1"/>
+  <text x="100" y="460" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1f2937">Tomorrow</text>
+  <text x="100" y="480" font-family="Arial, sans-serif" font-size="12" fill="#6b7280">26°C</text>
+  <text x="100" y="495" font-family="Arial, sans-serif" font-size="16" fill="#f59e0b">☀️</text>
+  
+  <rect x="220" y="440" width="120" height="60" fill="white" rx="8" stroke="#e5e7eb" stroke-width="1"/>
+  <text x="240" y="460" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1f2937">Wed</text>
+  <text x="240" y="480" font-family="Arial, sans-serif" font-size="12" fill="#6b7280">22°C</text>
+  <text x="240" y="495" font-family="Arial, sans-serif" font-size="16" fill="#3b82f6">⛅</text>
+  
+  <rect x="360" y="440" width="120" height="60" fill="white" rx="8" stroke="#e5e7eb" stroke-width="1"/>
+  <text x="380" y="460" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1f2937">Thu</text>
+  <text x="380" y="480" font-family="Arial, sans-serif" font-size="12" fill="#6b7280">18°C</text>
+  <text x="380" y="495" font-family="Arial, sans-serif" font-size="16" fill="#6b7280">🌧️</text>
+  
+  <rect x="500" y="440" width="120" height="60" fill="white" rx="8" stroke="#e5e7eb" stroke-width="1"/>
+  <text x="520" y="460" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1f2937">Fri</text>
+  <text x="520" y="480" font-family="Arial, sans-serif" font-size="12" fill="#6b7280">20°C</text>
+  <text x="520" y="495" font-family="Arial, sans-serif" font-size="16" fill="#8b5cf6">⛈️</text>
+  
+  <rect x="640" y="440" width="120" height="60" fill="white" rx="8" stroke="#e5e7eb" stroke-width="1"/>
+  <text x="660" y="460" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1f2937">Sat</text>
+  <text x="660" y="480" font-family="Arial, sans-serif" font-size="12" fill="#6b7280">25°C</text>
+  <text x="660" y="495" font-family="Arial, sans-serif" font-size="16" fill="#f59e0b">☀️</text>
+</svg>
